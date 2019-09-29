@@ -3,7 +3,7 @@
 Demo of a max6675_31855 library
 Example for Arduino.
 
-Library is writen for ESP8266, ESP8285 MON-OS native SDK, but should work with Arduino and FreeRTOS.
+Library is writen for ESP8266, ESP8285 NON-OS native SDK, but should work with Arduino and FreeRTOS.
 
 Copyright (C) 2019 by Jaromir Kopp <macwyznawca at me dot com> under MIT License
 
