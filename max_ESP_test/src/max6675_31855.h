@@ -1,7 +1,7 @@
 /*
 Function for MAX31855 and MAX6675 Cold-Junction Compensated Thermocouple-to-Digital Converter
 
-Library is writen for ESP8266, ESP8285 MON-OS native SDK, but should work with Arduino and FreeRTOS.
+Library is writen for ESP8266, ESP8285 NON-OS native SDK, but should work with Arduino and FreeRTOS.
 
 Copyright (C) 2019 by Jaromir Kopp <macwyznawca at me dot com> under MIT License
 
